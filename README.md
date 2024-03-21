@@ -382,6 +382,6 @@ If you have any feedback or suggestions for improving this guide, or if you enco
 
 Thank you for using this guide, and we hope it has been helpful in achieving your goals!
 
----
+## License
 
-Feel free to add any specific troubleshooting steps, conclusion remarks, or feedback and contribution sections as needed. Let me know if there's anything else you'd like to include!
+This project is licensed under the [MIT License](LICENSE).
